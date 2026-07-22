@@ -13,7 +13,7 @@ public class Main {
         list.removeAtLast();
         list.reverseList();
         list.printList();
-        list.printList();
+        list.printSize();
 
 
     }
